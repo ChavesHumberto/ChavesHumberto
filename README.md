@@ -5,15 +5,25 @@ Como apaixonado por tecnologia e entusiasta em Ciência da Computação, trago u
 🔧 Habilidades Técnicas:
 
 Desenvolvimento Web: HTML, CSS, JavaScript
+
 Linguagens: Python, C, C#
+
 Ferramentas e Tecnologias: Git, Scrum, Azure DevOps, Windows Azure, .NET framework
+
 Análise de Dados: Pandas, Matplotlib
+
 Machine Learning e IA: Machine learning algorithms, Previsão de série temporal, Inteligência artificial
+
 Blockchain: Solidity
+
 Ambiente Ágil, Melhoria Contínua
+
 Trabalho em Equipe, Comunicação Eficiente
+
 Sistemas Operacionais: Linux
-Banco de Dados: SQL
+
+Banco de Dados: MySQL, Oracle
+
 Outras: Pacote Office
 
 🌐 Idiomas:
@@ -21,11 +31,5 @@ Outras: Pacote Office
 Inglês: Fluência 5/6
 Espanhol: Fluência 5/6
 
-🚀 Projetos no GitHub:
-
-model-training-with-Qlora-and-Peft
-predicao-de-serie-temporal
-limpeza-e-analise-de-dados
-aplicacao-de-machine-learning
 
 Estou ansioso para contribuir para projetos desafiadores, aplicando meu conhecimento técnico e minha paixão por resolver problemas. Vamos codificar juntos! 🚀✨
