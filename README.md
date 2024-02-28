@@ -1,16 +1,31 @@
-### Hi there 👋
+🚀 Humberto Chaves Jr - Estudante de Ciência da Computação
 
-<!--
-**ChavesHumberto/ChavesHumberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Como apaixonado por tecnologia e entusiasta em Ciência da Computação, trago uma sólida experiência como estagiário na CMCorp, onde aprimorei habilidades em desenvolvimento de software utilizando C#, SQL e metodologias ágeis como Scrum. Minha jornada acadêmica inclui uma formação técnica em Petróleo e Gás no Instituto Federal Fluminense e atualmente estou dedicado ao Bacharelado em Ciência da Computação na Universidade Federal Fluminense.
 
-Here are some ideas to get you started:
+🔧 Habilidades Técnicas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento Web: HTML, CSS, JavaScript
+Linguagens: Python, C, C#
+Ferramentas e Tecnologias: Git, Scrum, Azure DevOps, Windows Azure, .NET framework
+Análise de Dados: Pandas, Matplotlib
+Machine Learning e IA: Machine learning algorithms, Previsão de série temporal, Inteligência artificial
+Blockchain: Solidity
+Ambiente Ágil, Melhoria Contínua
+Trabalho em Equipe, Comunicação Eficiente
+Sistemas Operacionais: Linux
+Banco de Dados: SQL
+Outras: Pacote Office
+
+🌐 Idiomas:
+
+Inglês: Fluência 5/6
+Espanhol: Fluência 5/6
+
+🚀 Projetos no GitHub:
+
+model-training-with-Qlora-and-Peft
+predicao-de-serie-temporal
+limpeza-e-analise-de-dados
+aplicacao-de-machine-learning
+
+Estou ansioso para contribuir para projetos desafiadores, aplicando meu conhecimento técnico e minha paixão por resolver problemas. Vamos codificar juntos! 🚀✨
