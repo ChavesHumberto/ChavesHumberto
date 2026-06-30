@@ -1,35 +1,56 @@
-🚀 Humberto Chaves Jr - Estudante de Ciência da Computação
+ADME do Perfil
+🚀 Humberto Chaves Junior
 
-Como apaixonado por tecnologia e entusiasta em Ciência da Computação, trago uma sólida experiência como estagiário na CMCorp, onde aprimorei habilidades em desenvolvimento de software utilizando C#, SQL e metodologias ágeis como Scrum. Minha jornada acadêmica inclui uma formação técnica em Petróleo e Gás no Instituto Federal Fluminense e atualmente estou dedicado ao Bacharelado em Ciência da Computação na Universidade Federal Fluminense.
+Cientista de Dados & Engenheiro de Software · Rio de Janeiro, RJ
+[LinkedIn] · [GitHub] · [E-mail]
 
-🔧 Habilidades Técnicas:
+---
 
-Desenvolvimento Web: HTML, CSS, JavaScript
+## O que eu faço
 
-Linguagens: Python, C, C#
+Transformo processos manuais e fragmentados em pipelines de dados automatizados 
+e dashboards que geram decisões.
 
-Ferramentas e Tecnologias: Git, Scrum, Azure DevOps, Windows Azure, .NET framework
+Experiência prática em ambiente corporativo de grande porte, com foco em 
+Business Intelligence (Power BI + DAX), automação de processos (Python, 
+Power Automate, Copilot) e arquiteturas de dados (ETL, Medallion, Cloud). 
+Sólida compreensão de LLMs, fine-tuning e agentic AI workflows.
 
-Análise de Dados: Pandas, Matplotlib
+---
 
-Machine Learning e IA: Machine learning algorithms, Previsão de série temporal, Inteligência artificial
+## Tech Stack
 
-Blockchain: Solidity
+Dados & Analytics: Power BI · DAX · SQL · ETL · Padrão Medallion · BigQuery · n8n
+Linguagens & DevOps: Python · C# · FastAPI · Docker · Git · Terraform · Azure · GCP
+IA & Automação: LLMs · QLoRA · PEFT · Fine-tuning · RAG · Agentic Workflows · 
+                 Power Automate · Microsoft Copilot
 
-Ambiente Ágil, Melhoria Contínua
+---
 
-Trabalho em Equipe, Comunicação Eficiente
+## Experiência
 
-Sistemas Operacionais: Linux
+Petrobras — Estagiário de Dados e Automação · 2024–presente
+• Modelou e implementou 5 relatórios Power BI do zero, cobrindo ciclo completo 
+  de jovens aprendizes
+• Automatizou extração de dados com Python (substituiu processo de terceirizada)
+• Implementou comunicações em massa via Power Automate
+• Impacto: equipe opera com visibilidade em tempo real onde antes dependia de 
+  planilhas manuais
 
-Banco de Dados: MySQL, Oracle
+CMCorp — Estagiário de Desenvolvimento de Sistemas · 8 meses
+• Sistemas corporativos com C#, SQL e metodologias ágeis (Scrum)
+• Azure DevOps, .NET Framework, MySQL, Oracle
 
-Outras: Pacote Office
+---
 
-🌐 Idiomas:
+## Projetos em Destaque
 
-Inglês: Fluência 5/6
-Espanhol: Fluência 5/6
+pipelineDadosPetroleo — Pipeline ELT serverless na GCP, Medallion, Terraform
+model-training-with-Qlora-and-Peft — Fine-tuning de LLMs com QLoRA + PEFT
+pdf2image_webhook — Webhook Flask para conversão de PDFs em imagens
 
+---
 
-Estou ansioso para contribuir para projetos desafiadores, aplicando meu conhecimento técnico e minha paixão por resolver problemas. Vamos codificar juntos! 🚀✨
+## Formação
+
+UFF — Ciência da Computação · Rio das Ostras, RJ
